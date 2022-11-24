@@ -46,3 +46,4 @@ t_size = 8
 er = num_size + t_size
 print (er)
 ```
+В конце еще - [ссылка](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link3) на шпаргалку по синтаксису Markdown.
