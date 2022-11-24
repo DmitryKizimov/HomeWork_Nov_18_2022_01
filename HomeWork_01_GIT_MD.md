@@ -47,3 +47,9 @@ er = num_size + t_size
 print (er)
 ```
 В конце еще - [ссылка](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link3) на шпаргалку по синтаксису Markdown.
+
+---
+Ну и как же без цитаты:
+>I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.
+>
+>Isaac Newton.
