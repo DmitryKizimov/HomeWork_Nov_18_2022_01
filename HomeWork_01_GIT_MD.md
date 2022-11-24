@@ -5,5 +5,9 @@
 ![Name](https://gbcdn.mrgcdn.ru/uploads/avatar/4627896/attachment/thumb-db56e94e61c746abc63ba5c01eaa8c30.png)
 
 ---
-
+### Немного информации обо мне:
+* Кто я.
+* Спорт в моей жизни.
+* Любимый проект.
+* Путешествия.
 
